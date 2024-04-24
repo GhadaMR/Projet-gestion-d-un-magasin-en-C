@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1672395840 source:c:\users\hp\desktop\enit\mini projet\magasin_entiquite_vf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stddef.h>
+	"magasin.h"
+
+1672395825 c:\users\hp\desktop\enit\mini projet\magasin_entiquite_vf\magasin.h
+
+1673626667 source:c:\users\hp\desktop\enit\mini projet\magasin_entiquite_vf\magasin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"magasin.h"
+	<Windows.h>
+
